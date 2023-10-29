@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Lusiads</title>
+    <link>https://github.com/jaysonvirissimo/the-lusiads</link>
+    <language>pt-pt</language>
+    <copyright>Luís Vaz de Camões, Jayson Virissimo</copyright>
+    <itunes:author>Jayson Virissimo</itunes:author>
+    <itunes:summary>The Lusiads: Read in European Portuguese</itunes:summary>
+    <description>
+
+    </description>
+    <itunes:owner>
+      <itunes:name>Jayson Virissimo</itunes:name>
+      <itunes:email>jayson.virissimo@asu.edu</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://yourpodcast.com/image.jpg"/>
+    <itunes:category text="Language Learning"/>
+
+    <item>
+      <title>Canto Primeiro</title>
+      <guid>Unique Identifier</guid>
+      <pubDate>Publication Date</pubDate>
+      <description>Episode Description</description>
+      <enclosure url="http://yourpodcast.com/audiofile.mp3" length="16193133" type="audio/mpeg"/>
+    </item>
+
+    <!-- More <item> elements for more episodes -->
+  </channel>
+</rss>
