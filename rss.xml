@@ -7,7 +7,7 @@
     <copyright>Luís Vaz de Camões, Jayson Virissimo</copyright>
     <itunes:author>Jayson Virissimo</itunes:author>
     <itunes:summary>The Lusiads: Read in European Portuguese</itunes:summary>
-    <description></description>
+    <description>The Lusiads: Read in European Portuguese</description>
     <itunes:owner>
       <itunes:name>Jayson Virissimo</itunes:name>
       <itunes:email>jayson.virissimo@asu.edu</itunes:email>
@@ -17,9 +17,15 @@
 
     <item>
       <title>Canto Primeiro</title>
-      <guid>Unique Identifier</guid>
-      <pubDate>Publication Date</pubDate>
-      <description>Episode Description</description>
+      <guid>https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/primeiro.mp3</guid>
+      <pubDate>Sat, 28 Oct 2023 21:13:53 -0700</pubDate>
+      <description>
+        The first section of "Os Lusiadas" pays tribute to famous poets and a young king.
+        It starts off similarly to other epic tales, showing Greek gods keeping tabs on Vasco da Gama's journey.
+        Venus supports the Portuguese explorers, while Bacchus opposes them, viewing them as intruders in his eastern domain.
+        The story jumps into the middle of da Gama's trip, just after passing the Cape of Good Hope.
+        Bacchus, disguised as a Moor, tries to get local Muslims to attack da Gama and his crew.
+      </description>
       <enclosure url="https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/primeiro.mp3" length="16193133" type="audio/mpeg"/>
     </item>
   </channel>
