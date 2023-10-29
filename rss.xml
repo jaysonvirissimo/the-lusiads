@@ -7,14 +7,12 @@
     <copyright>Luís Vaz de Camões, Jayson Virissimo</copyright>
     <itunes:author>Jayson Virissimo</itunes:author>
     <itunes:summary>The Lusiads: Read in European Portuguese</itunes:summary>
-    <description>
-
-    </description>
+    <description></description>
     <itunes:owner>
       <itunes:name>Jayson Virissimo</itunes:name>
       <itunes:email>jayson.virissimo@asu.edu</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://yourpodcast.com/image.jpg"/>
+    <itunes:image href="https://github.com/jaysonvirissimo/the-lusiads/raw/main/images/channel.png"/>
     <itunes:category text="Language Learning"/>
 
     <item>
@@ -22,9 +20,7 @@
       <guid>Unique Identifier</guid>
       <pubDate>Publication Date</pubDate>
       <description>Episode Description</description>
-      <enclosure url="http://yourpodcast.com/audiofile.mp3" length="16193133" type="audio/mpeg"/>
+      <enclosure url="https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/primeiro.mp3" length="16193133" type="audio/mpeg"/>
     </item>
-
-    <!-- More <item> elements for more episodes -->
   </channel>
 </rss>
