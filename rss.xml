@@ -28,5 +28,14 @@
       </description>
       <enclosure url="https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/primeiro.mp3" length="16193133" type="audio/mpeg"/>
     </item>
+    <item>
+      <title>Canto Segundo</title>
+      <guid>https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/segundo.mp3</guid>
+      <pubDate>Sun, 26 Nov 2023 22:00:00 -0700</pubDate>
+      <description>
+        A council of the gods in Olympus, where Jupiter foretells the future successes of the Portuguese in discovering new lands, while Bacchus, who fears the glory of the Portuguese might surpass his own, plots to obstruct their voyages. This canto effectively blends historical narrative with mythological elements to celebrate Portuguese maritime achievements.
+      </description>
+      <enclosure url="https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/segundo.mp3" length="17191917" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
